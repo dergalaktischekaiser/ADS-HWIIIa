@@ -3,15 +3,15 @@
 // THE PRIM'S ALGORITHM IS INTRODUCED TO SOLVE THE PROBLEM OF DESIGNING
 // AN ENERGY NETWORK IN AN INTERPLANETARY REGION
 /*
-                                                O _____ O                   Karimov R.
-                                                /\     /\                   DSBA191
-                                               /  \   /  \                  GitHub @dergalaktischekaiser
+                                                                                            O _____ O                   Karimov R.
+                                                                                            /\     /\                   DSBA191
+                                                                                           /  \   /  \                  GitHub @dergalaktischekaiser
 											  /    \ /    \
 											 O----- O------O
 											  \    / \    /
 											   \  /   \  /
-												\/_____\/
-												O       O                                           
+											    \/_____\/
+											    O       O                                           
 */
 #include <climits>                           
 #include <cmath>                                  
