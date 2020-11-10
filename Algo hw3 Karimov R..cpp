@@ -1,7 +1,5 @@
-﻿// IN THE NAME OF THE SENATE OF THE FIRST GALACTIC EMPIRE
-
 // THE PRIM'S ALGORITHM IS INTRODUCED TO SOLVE THE PROBLEM OF DESIGNING
-// AN ENERGY NETWORK IN AN INTERPLANETARY REGION
+// AN ENERGY NETWORK
 /*
                                                                                             O _____ O                   Karimov R.
                                                                                             /\     /\                   DSBA191
